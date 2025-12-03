@@ -33,6 +33,9 @@ It deploys a containerized Node.js application to **AWS ECS (Fargate)** using a 
 * `.github/workflows`: The YAML configuration for the CI/CD pipeline.
 * `infrastructure/`: JSON templates for ECS Task Definitions.
 
+## 🛠️ TODO
+1.  **Screenshot Uploading:** I created this repo based on the work I did for a client. I will upload the screenshots when I get permission and time. I may implement this repo with my own account and may upload the screenshots in future
+
 ---
 *Muhammad Zaffar Saffee - DevOps & Cloud Security Engineer*
 
@@ -40,3 +43,4 @@ It deploys a containerized Node.js application to **AWS ECS (Fargate)** using a 
 ## License
 * This repository contains original work, written independently.
 * You may modify and extend freely.
+
